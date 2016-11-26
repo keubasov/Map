@@ -1,0 +1,18 @@
+-return unless @coords
+table#buildings
+  thead
+    tr
+      th
+        |адрес
+      th
+        |широта
+      th
+        |долгота
+      th
+        |расстояние
+  -@coords.each do |coord|
+    tr visible = 'false'
+      td.addr = "#{coord[:coord].street}, дом #{coord[:coord].house}"
+      td.latitude = coord[:coord].latitude
+      td.longitude = coord[:coord].longitude
+      td.distance = coord[:distance].round 3

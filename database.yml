@@ -1,0 +1,17 @@
+development:
+  adapter: postgresql
+  encoding: unicode
+  database: map_development
+  pool: 5
+  timeout: 5000
+  username: alex
+  password:
+
+test:
+  adapter: postgresql
+  encoding: unicode
+  database: map_test
+  pool: 5
+  timeout: 5000
+  username: alex
+  password:

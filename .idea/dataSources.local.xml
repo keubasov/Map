@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="Rails Map: development" uuid="e583a520-9ac7-436c-b5c7-a35e2eeec0a4">
+      <first-sync>true</first-sync>
+    </data-source>
+    <data-source name="Rails Map: production" uuid="d74a015f-0bb3-4ed5-a8fd-781dcb22c9eb">
+      <first-sync>true</first-sync>
+      <user-name>Map</user-name>
+      <user-password>df96df8fdf97df8adfefdfe4dffcdff1df8ddfe7dfebdffadff5dfeedfebdffedfebdfe8dfebdff9dfefdff5dffadfebdff9dff9dffddfe5dff8dfeedf8ddff7df8adf8fdf94</user-password>
+    </data-source>
+    <data-source name="Rails Map: test" uuid="3eaffbda-b4f4-4820-bb81-96dc7d25f4cc">
+      <first-sync>true</first-sync>
+    </data-source>
+  </component>
+</project>
