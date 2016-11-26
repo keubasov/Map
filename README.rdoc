@@ -1,2 +1,2 @@
-After use the application don't forget to run 'rake db:seed' 
+After use the application don't forget to run `rake db:seed` .  
 Click to any area on appeared map and see a list of buildings from database, where distance to the click point is less than 4 kilometrs
